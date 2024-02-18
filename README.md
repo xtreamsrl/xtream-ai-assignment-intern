@@ -22,26 +22,12 @@ Think of this as a real-world project. Fork this repo and treat it as if you're 
 
 We'll be looking at a bunch of things to see how awesome your work is, like:
 
-* Your approach and method
-* How well you get the business problem
-* Your understanding of the data
-* The clarity and completeness of your findings
-* How you use your tools (like git and Python packages)
-* The neatness of your code
-* The clarity of your documentation
-
-🚨 **Keep This in Mind**: This isn't about building the fanciest model: we're more interested in your process and thinking.
-
-## Special Note for Interns
-
-If you're aiming for an internship, focus **only on Challenges 1 and 2** for the dataset you choose.
-
-We'll mainly look at:
-
 * Your workflow
 * How well you understand the problem and data
 * The approach to the analysis and clarity of your conclusions
 * How neat your code is (relative to your experience level)
+
+🚨 **Keep This in Mind**: This isn't about building the fanciest model: we're more interested in your process and thinking.
 
 This is your chance to showcase your unique approach and thought process. Don't worry if your code isn't perfect or your model isn't top-notch yet. We've been in your shoes and are here to help you grow. 🌟
 
@@ -79,22 +65,6 @@ And, because Francesco's clientele is as demanding as he is, he wants the why be
 
 Create another Jupyter notebook where you develop and evaluate your model.
 
-#### Challenge 3
-
-Good news! Francesco is impressed with the performance of your model. 
-Now, he's ready to hire a new expert and expand his diamond database. 
-
-**Develop an automated pipeline** that trains your model with fresh data, 
-keeping it as sharp as the diamonds it assesses.
-
-#### Challenge 4
-
-Finally, Francesco wants to bring your brilliance to his business's fingertips. 
-
-**Build a REST API** to integrate your model into a web app, 
-making it a cinch for his team to use. 
-Keep it developer-friendly – after all, not everyone speaks 'data scientist'!
-
 So, ready to add some sparkle to this challenge? Let's make these diamonds shine! 🌟💎✨
 
 ---
@@ -123,27 +93,6 @@ Now, it's time to **predict the future**, well, at least a year into it.
 Develop a long-term forecasting model for the power load with a forecasting horizon of one year ahead, but let's skip 2020-2022 and use 2019 as your testing ground. 
 Marta's advice: Zap's bosses aren't AI gurus, so your model's accuracy and explainability need to be crystal clear. 
 Illuminate these points with a second notebook.
-
-#### Challenge 3
-
-After mastering the long-term, it's time to zoom in. 
-Your next challenge is to **predict the power load one day ahead**. 
-Again, sideline 2020-2022 and focus on 2019 for testing. 
-Keep Marta's wisdom in mind – clarity is key!
-
-#### Challenge 4
-
-Choose one of your sparkling models and get it ready for the big leagues. 
-Develop an **end-to-end pipeline for training and evaluating your model** on 2020 and 2021 data. 
-Luca, the new CTO at Zap and a self-confessed nerd, demands code that's as clean and structured as it is maintainable. 
-Impress him!
-
-#### Challenge 5
-
-2020 was a tough year for everyone, including your model. 
-Zap Inc isn't thrilled with its performance. 
-**Justify your model's performance in 2020** with a detailed notebook. 
-Explain the unexpected, defend your approach, and remember, every challenge is a learning curve!
 
 Ready to electrify your career with this project? Let's power through! ⚡🔌📈
 
@@ -177,25 +126,6 @@ Keep it simple enough for Gabriele but detailed enough to dazzle Fabio.
 Next up, Pear Inc needs a crystal ball to foresee who will staty with them. 
 **Develop a model that predicts employee churn**, complete with churn probabilities to help Gabriele take timely action.
 Remember, Gabriele's no fan of black-box machines, and Fabio's looking for proof that your model's magic works.
-
-#### Challenge 3
-
-Your model's a hit, but why does it work wonders? 
-Time to add some transparency to your tech.
-**Make your model interpretable**, showcasing the key features and how each prediction is made. 
-Your audience: both Gabriele and Fabio, so balance simplicity with sophistication.
-
-#### Challenge 4
-
-Now, let's get your model production-ready. 
-**Build an end-to-end pipeline for training your model with new data sets.** 
-Assume the data structure stays the same, and keep your code clean and classy to impress Fabio, a clean code lover.
-
-#### Challenge 5
-
-Bravo! Pear Inc loves your work, and now it's showtime for your model in their web app. 
-**Develop a REST API** to expose your model's predictions. 
-This time, it's all about Fabio - ensure your code is clean, structured, and ready for evolution.
 
 So, ready to tackle Pear Inc's perplexing problem and turn the tide on talent turnover? 
 Let's get cracking! 🍐💼🔍
